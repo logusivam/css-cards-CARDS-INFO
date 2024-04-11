@@ -16,7 +16,7 @@ For any questions or inquiries regarding the use of this project, please contact
 
 ## Sample Output
 
-![CSS Cards](css_cards_preview.png)
+![CSS Cards](nyc.jpg)
 
 ## Structure
 
